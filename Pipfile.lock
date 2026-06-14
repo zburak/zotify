@@ -148,7 +148,7 @@
             "ref": "3b46fe560ad829b976ce63e85012cff95b1e0bf3"
         },
         "music-tag": {
-            "git": "git+https://zotify.xyz/zotify/music-tag",
+            "git": "git+https://github.com/KristoforMaynard/music-tag",
             "ref": "5c73ddf11a6d65d6575c0e1bb8cce8413f46a433"
         },
         "mutagen": {
